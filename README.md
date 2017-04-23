@@ -2,6 +2,12 @@
 
 Reactのオレオレテンプレート
 
+```
+$ npm install
+$ sudo npm install -g gulp
+$ gulp
+```
+
 ReactとReactDOMの違い
 
 http://www.shigemk2.com/entry/memo_React_vs_ReactDOM
