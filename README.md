@@ -2,10 +2,17 @@
 
 Reactのオレオレテンプレート
 
-```
+```sh
 $ npm install
 $ sudo npm install -g gulp
 $ gulp
+```
+
+package.json アップデート
+
+```
+$ sudo npm install -g npm-check-updates
+$ ncu -u
 ```
 
 ReactとReactDOMの違い
